@@ -1,3 +1,4 @@
 
-def reverse_each_word(x)
+def reverse_each_word(array)
+  
   
